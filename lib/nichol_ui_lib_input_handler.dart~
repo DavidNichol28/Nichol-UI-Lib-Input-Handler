@@ -1,0 +1,3 @@
+library personal_input_handler;
+
+export "src/personal_input_handler.dart";
