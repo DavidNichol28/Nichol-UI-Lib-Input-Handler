@@ -1,4 +1,5 @@
 # nichol_ui_lib_input_handler
+![pub package](https://img.shields.io/pub/v/nichol_ui_lib_input_handler.svg)
 
 A lightweight Flutter input handler widget designed for chat-style UIs.
 Provides a ready-made text input field with send handling, optional toast feedback, and flexible callback support.
